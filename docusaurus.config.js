@@ -11,18 +11,18 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://rijuoddusual1999.github.io',
+  url: 'https://QAExp.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/QAExp/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'rijuoddusual1999', // Usually your GitHub org/user name.
-  projectName: 'QAExp', // Usually your repo name.
-  trailingSlash: false,
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+ // organizationName: 'rijuoddusual1999', // Usually your GitHub org/user name.
+  //projectName: 'QAExp', // Usually your repo name.
+ // trailingSlash: false,
+  //onBrokenLinks: 'throw',
+  //onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
