@@ -17,8 +17,6 @@ const config = {
   baseUrl: '/QAExp/',
 
   // GitHub pages deployment config.
-
-  deploymentBranch:'gh-pages',
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rijuoddusual1999', // Usually your GitHub org/user name.
   projectName: 'QAExp', // Usually your repo name.
@@ -45,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/rijuoddusual1999/Experience/tree/main',
+            'https://github.com/rijuoddusual1999/QAExp/tree/master',
         },
         blog: false,
         theme: {
